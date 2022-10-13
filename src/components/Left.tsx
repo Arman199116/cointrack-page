@@ -36,6 +36,9 @@ function Left() {
 					<p>Renews for $60 every year</p>
 				</div>
 			</div>
+			<div className='payment-detalis'>
+				<p>Payment detalis</p>
+			</div>
 		</div>
 	)
 }

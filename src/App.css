@@ -31,14 +31,17 @@
 	flex-direction: column;
 	justify-content: center;
 	border: 1px solid red;
-	background-color: #1F2736
- 	;
+	background-color: #1F2736;
 }
 
 .billed-child > * {
-	
 	display: flex;
 	justify-content: center;
+}
+.payment-detalis {
+	width: 183px;
+	font-size: 22px;
+	margin-top: 31px;
 }
 
 .starter-num {
